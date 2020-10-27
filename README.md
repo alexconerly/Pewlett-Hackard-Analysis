@@ -47,7 +47,7 @@ From the second analysis, pertaining to employees born in 1965 that are eligible
 - The lowest number of employees nearing retirement age was for Assistant Engineers, totaling 29 employees.
 
 
-The results of the second analysis can be seen from the following table (note this only a truncated display of the first eleven out of 1,549 rows):
+The results of the second analysis requested by the company can be seen from the following table (note this only a truncated display of the first eleven out of 1,549 rows):
 
 -----------------------------------------------
 
@@ -55,7 +55,7 @@ The results of the second analysis can be seen from the following table (note th
 
 ----------------------------------------------
 
-The following table is a count of the mentorship-eligible employees.  Note, this table will also be referred back to in the summary section below:
+The following supplementary table is a count of the mentorship-eligible employees.
 
 -----------------------------------------------
 
