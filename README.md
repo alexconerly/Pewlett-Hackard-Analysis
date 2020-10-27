@@ -25,7 +25,7 @@ www.quickdatabasediagrams.com
 ----------------------------------------------
 ## Results:
 
-As a result of the first analysis, pertaining to number of retirement-age employees organized by title, the bulleted points are displayed here to visualize some key observations obtained:
+As a result of the first analysis, pertaining to the number of retirement-age employees organized by title, the bulleted points are displayed here to visualize some key observations obtained:
 
 - The results from the number of retiring employees ordered by title indicate that "Senior Engineers" is the title that contains the highest count of employees, specifically with 29,414 within retirement age. This constitutes 32.5% of the total employees within retirement age. 
 - "Senior Staff" was a close second place at 28,254 retiring employees.
