@@ -76,12 +76,10 @@ For example, if we assume all of the employees within the retirment age (with bi
 
 ----------------------------------------------
 
-To answer this question, we may refer back to the supplementary table that was provided for additional insight in the results section.  From this supplementary "count" table we see that there are only 1,549 total employees who were born in 1965 and, therefore, eligible for the mentorhsip program.  Currently, that is a ratio of about 58 retirement-ready employees for every mentorship-eligible employee.  Thus, a mentorship program does appear to be a feasible solution for preparing these mentorship-eligible employees.  On the other hand, there will not be enough employees born in 1965 alone to fill all the roles that are likely to become vacant by the retirement-ready employees.
+To answer this question, we may refer back to the supplementary table that was provided for additional insight in the results section.  From this supplementary "count" table we saw the counts ordered by title.  If we take this further and sum the total (as seen in the query result below), we observe there are only 1,549 total employees who were born in 1965 and, therefore, eligible for the mentorhsip program.  Currently, that is a ratio of about 58 retirement-ready employees for every mentorship-eligible employee.  Thus, a mentorship program does appear to be a feasible solution for preparing these mentorship-eligible employees.  On the other hand, there will not be enough employees born in 1965 alone to fill all the roles that are likely to become vacant by the retirement-ready employees.
 
 -----------------------------------------------
-
-![](Extra_pngs_for_readme/count_for_nearing_retirement.png)
-
+![](Extra_pngs_for_readme/eligibility_count.png)
 ----------------------------------------------
 
 As an additional query that may be useful in safeguarding the company, we may want to calculate the salaries per title for the employees eligible for the mentorship program.  This query may be useful for the company's financial planning as it will allow the company to see the current salary expenditure devoted to these specific employees nearing retirement per department.  That way, if the company chooses to adjust salaries depending on whether an employee enters a mentorship program, the company will be well-prepared with a clear understanding of the total salary expenses per department for these employees beforehand.  To determine the current salary expense of all these employees eligible for the program, that query would be executed as follows:
