@@ -40,7 +40,7 @@ The results of this first analysis are summarized in the table below:
 
 ----------------------------------------------
 
-From the second analysis, pertaining to employees born in 1965 that are eligible for the company's proposed mentorship program, the mentorship-eligibilty table provided a useful list with pertinent columns about those employees nearing retirement age.  Additionaly, although it was not required from the company, an additional "count table" was created to supplement the original mentorship-eligility table in order to compare it to the counts of the first analysis with ease.  After all, Pewlet-Hackard needs all the help they can get to prepare for the silver-tsunami ahead. Together, the required and non-required tables offered the following key observations:
+From the second analysis, pertaining to employees born in 1965 that are eligible for the company's proposed mentorship program, the mentorship-eligibilty table (see first table below) provides a useful list with pertinent columns about those employees nearing retirement age.  Additionaly, although it was not required from the company, an additional "count table" (see second table below) was created to supplement the original mentorship-eligility table in order to compare it to the counts of the first analysis with ease.  After all, Pewlet-Hackard needs all the help they can get to prepare for the silver-tsunami ahead. Together, the required and non-required tables offered the following key observations:
 
 
 - The total number of employees born in 1965 (those nearing retirment) amounts to 1,549 employees.
