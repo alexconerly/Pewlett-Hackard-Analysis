@@ -30,7 +30,7 @@ As a result of the first analysis, pertaining to number of retirement-age employ
 - The results from the number of retiring employees ordered by title indicate that "Senior Engineers" is the title that contains the highest count of employees, specifically with 29,414 within retirement age. This constitutes 32.5% of the total employees within retirement age. 
 - "Senior Staff" was a close second place at 28,254 retiring employees.
 - Interestingly, there are only two managers within retirment age.  This is the only title cateogory counted as single-digits as all other catories contained well over a thousand retirement-age employees.
-- There are 90,398 total employees in retirment age.
+- There are 90,398 total employees in retirement age.
 
 The results of this first analysis are summarized in the table below:
 
