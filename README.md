@@ -72,7 +72,7 @@ For example, if we assume all of the employees within the retirment age (with bi
 
 
 
-To answer this question, we may refer back to the supplementary table that was provided for additional insight in the results section.  From this supplementary "count" table we see that there are only 1,549 total employees who were born in 1965 and, therefore, eligible for the mentorhsip program.  Currently, that is a ratio of about 58 retirement-ready employees for every mentorship-eligible employee.  Thus, a mentorship program does appear to be a feasible solution for preparing these mentorship-eligible employees.  On the other hand, there will not be enough employees born in 1965 alone to fill all the roles the are likely to become vacant by the retirement-ready employees.
+To answer this question, we may refer back to the supplementary table that was provided for additional insight in the results section.  From this supplementary "count" table we see that there are only 1,549 total employees who were born in 1965 and, therefore, eligible for the mentorhsip program.  Currently, that is a ratio of about 58 retirement-ready employees for every mentorship-eligible employee.  Thus, a mentorship program does appear to be a feasible solution for preparing these mentorship-eligible employees.  On the other hand, there will not be enough employees born in 1965 alone to fill all the roles that are likely to become vacant by the retirement-ready employees.
 
 -----------------------------------------------
 
