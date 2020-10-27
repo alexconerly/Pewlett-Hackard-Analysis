@@ -70,7 +70,11 @@ In conclusion, the use of PostgreSQL provided an excellent resource for querying
 
 For example, if we assume all of the employees within the retirment age (with birth dates from 1952 to 1955) will be retiring at the onset of the silver-tsunami, then that would result in a total of 90,398 retirees (see below).  That is, indeed, a lot of employees to replace.  As such, this begs the question as to whether there are enough retirement-ready employees currently in the company to actually mentor the next generation of Pewlett-Hackard employees.
 
+-----------------------------------------------
 
+![](Extra_pngs_for_readme/sum_of_retirementready.png)
+
+----------------------------------------------
 
 To answer this question, we may refer back to the supplementary table that was provided for additional insight in the results section.  From this supplementary "count" table we see that there are only 1,549 total employees who were born in 1965 and, therefore, eligible for the mentorhsip program.  Currently, that is a ratio of about 58 retirement-ready employees for every mentorship-eligible employee.  Thus, a mentorship program does appear to be a feasible solution for preparing these mentorship-eligible employees.  On the other hand, there will not be enough employees born in 1965 alone to fill all the roles that are likely to become vacant by the retirement-ready employees.
 
